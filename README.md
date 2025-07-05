@@ -11,7 +11,7 @@ This repository contains the implementations of a dynamic leaderboard using **Re
 ### Setup Instructions
 1. Clone the repository:
    
-   git clone <react-repo-url>
+   git clone 
    cd react-leaderboard
 
 2. Install dependencies:
